@@ -20,7 +20,7 @@ const io = new Server(server, {
 const db = createClient({
   url: "libsql://rested-megatron-ronaldbeltran1222.turso.io",
   authToken:
-    "eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDc1ODYyOTUsImlkIjoiNWY3MTA0MjctYzgzOC0xMWVlLWI5N2YtNmFiZWQzNDc4NmU4In0.3VUWi7Lq8I3coi8PddcQphudUmfNV5MNQ23SZOgGhBqoGRGn7byIETc-ma3FXWC_bkpkW7fXm0PyH0sE4ZlACQ",
+    "ACA VA EL TOKEN QUE GENERA TURSO PARA LA CONECCION",
   // process.env.DB_TOKEN,
 });
 
